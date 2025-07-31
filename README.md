@@ -1,6 +1,6 @@
 # Forecasting with Leading and Lagging Indicators
 
-This repository contains a group project submitted as part of the IB98E0 Forecasting module in the MSc Business Analytics programme at the University of Warwick (2024–2025). The project explores the use of leading and lagging indicators in forecasting, with a focus on their application in economics and business decision-making.
+The project explores the use of leading and lagging indicators in forecasting, with a focus on their application in economics and business decision-making.
 
 ## 📊 Project Overview
 
